@@ -19,8 +19,9 @@ You can install the necessary packages by running the following code in R:
 
 ```r
 install.packages(c("ggplot2", "dplyr", "readxl", "tidyr"))
+
 Usage
-Clone this repository to your local machine or download the R script.
+download the R script.
 
 Update the file path in the code to the location of your colocresults.xlsx file.
 
